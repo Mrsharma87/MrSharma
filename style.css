@@ -2041,7 +2041,7 @@ footer {
   .whatsapp-button img {
     width: 35px;
     height: 35px;
-    transition: transform 0.1s ease-in-out;
+    transition: transform 0.1ms ease-in-out;
   }
   
   .whatsapp-button:hover {
